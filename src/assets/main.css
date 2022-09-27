@@ -1,0 +1,4 @@
+@import './base.css';
+@import './reset.css';
+/*全局引入样式，如果是按需自动引入就不用放出来 ,但弹窗的样式在这里*/
+@import 'element-plus/dist/index.css';

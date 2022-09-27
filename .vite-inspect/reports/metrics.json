@@ -1,0 +1,136 @@
+[
+  {
+    "name": "vite:optimized-deps",
+    "invokeCount": 22,
+    "totalTime": 18337
+  },
+  {
+    "name": "vite:vue",
+    "invokeCount": 38,
+    "totalTime": 562
+  },
+  {
+    "name": "vite:css",
+    "invokeCount": 17,
+    "totalTime": 540
+  },
+  {
+    "name": "vite:esbuild",
+    "invokeCount": 19,
+    "totalTime": 358
+  },
+  {
+    "name": "vite:import-analysis",
+    "invokeCount": 74,
+    "totalTime": 285
+  },
+  {
+    "name": "unplugin-vue-components",
+    "enforce": "post",
+    "invokeCount": 26,
+    "totalTime": 17
+  },
+  {
+    "name": "vite:client-inject",
+    "invokeCount": 2,
+    "totalTime": 17
+  },
+  {
+    "name": "unplugin-auto-import",
+    "enforce": "post",
+    "invokeCount": 4,
+    "totalTime": 8
+  },
+  {
+    "name": "vite:css-post",
+    "invokeCount": 17,
+    "totalTime": 3
+  },
+  {
+    "name": "vite:json",
+    "invokeCount": 3,
+    "totalTime": 0
+  },
+  {
+    "name": "alias",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "unplugin-icons",
+    "enforce": "pre",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite-plugin-inspect",
+    "enforce": "pre",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:asset",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:define",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:dynamic-import-vars",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:html-inline-proxy",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:import-glob",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:modulepreload-polyfill",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:pre-alias",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:resolve",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:vue-jsx",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:wasm-fallback",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:wasm-helper",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:worker",
+    "invokeCount": 0,
+    "totalTime": 0
+  },
+  {
+    "name": "vite:worker-import-meta-url",
+    "invokeCount": 0,
+    "totalTime": 0
+  }
+]

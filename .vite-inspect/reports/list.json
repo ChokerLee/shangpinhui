@@ -1,0 +1,810 @@
+{
+  "root": "E:/Project/www/wwwroot/vite/project-shangpinhui",
+  "modules": [
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/axios.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/chunk-2T3Q367C.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/chunk-4TEYBX75.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/chunk-FAAXNYAC.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/chunk-FVZHS5AO.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/chunk-TWLJ45QX.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/element-plus_es.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/element-plus_es.js?v=e2125783",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/element-plus_es_components_button_style_css.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/element-plus_es_components_button_style_css.js?v=cc919a51",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/element-plus_es_components_icon_style_css.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/element-plus_es_components_icon_style_css.js?v=cbddc96d",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/lodash.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/mitt.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/mockjs.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/nanoid.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/nprogress.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/pinia.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/swiper.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/swiper_vue.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/vue-router.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/.vite/deps/vue.js?v=a7e311b8",
+      "deps": [],
+      "plugins": [
+        "vite:optimized-deps",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/element-plus/theme-chalk/base.css",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:css",
+        "vite:css-post",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/element-plus/theme-chalk/el-button.css",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:css",
+        "vite:css-post",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/element-plus/theme-chalk/el-icon.css",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:css",
+        "vite:css-post",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/nprogress/nprogress.css",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:css",
+        "vite:css-post",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/vite/dist/client/client.mjs",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:client-inject",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/node_modules/vite/dist/client/env.mjs",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:client-inject",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/App.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/api/index.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/api/mockRequest.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/api/nprogress.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/api/request.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/assets/main.css",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:css",
+        "vite:css-post",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/components/Common/Banner.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/components/Common/Banner.vue?vue&type=style&index=0&scope=true&lang.css",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/components/Footer/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/components/Footer/index.vue?vue&type=style&index=0&scoped=eb2eac5a&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/components/Header/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-auto-import",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/components/Header/index.vue?vue&type=style&index=0&scoped=eef40c4c&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/components/TypeNav/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/components/TypeNav/index.vue?vue&type=style&index=0&scoped=fcfc8e29&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/main.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/mock/address.json",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:json"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/mock/banner.json",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:json"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/mock/floor.json",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:json"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/mock/mockServer.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Brand/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Brand/index.vue?vue&type=style&index=0&scoped=9703c3f5&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Floor/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Floor/index.vue?vue&type=style&index=0&scoped=cf83f78d&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Like/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Like/index.vue?vue&type=style&index=0&scoped=206b2bdc&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/ListContainer/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/ListContainer/index.vue?vue&type=style&index=0&scoped=f705886f&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Rank/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Rank/index.vue?vue&type=style&index=0&scoped=f6d5129a&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Recommend/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/Recommend/index.vue?vue&type=style&index=0&scoped=971e3f42&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Home/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-auto-import",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Pay/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-auto-import",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Pay/index.vue?vue&type=style&index=0&scoped=4e3bdda1&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Trade/index.vue",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:vue",
+        "unplugin-auto-import",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/pages/Trade/index.vue?vue&type=style&index=0&scoped=dc050d91&lang.scss",
+      "deps": [],
+      "plugins": [
+        "vite:vue",
+        "vite:css",
+        "vite:vue",
+        "vite:css-post",
+        "unplugin-vue-components",
+        "vite:import-analysis"
+      ],
+      "virtual": true
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/router/index.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/router/routes.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/stores/banner.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/stores/detail.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/stores/floor.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/stores/home.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/stores/search.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/stores/store.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/stores/trade.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/stores/user.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/utils/inject.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/utils/token.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "E:/Project/www/wwwroot/vite/project-shangpinhui/src/utils/uuid_tooken.ts",
+      "deps": [],
+      "plugins": [
+        "__load__",
+        "vite:esbuild",
+        "vite:import-analysis"
+      ],
+      "virtual": false
+    }
+  ],
+  "ssrModules": []
+}

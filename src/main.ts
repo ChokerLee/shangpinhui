@@ -30,6 +30,11 @@ import myPlugins from '@/utils/myPlugins/myPlugins'
 // }
 
 const app = createApp(App)
+// 注册全局注入
+// ！！！！！！要尽量靠前，在数据和路由注册之前就要注入才好，这样才能保证所有组件都能获取到
+globalProvide.forEach((item) => {
+  app.provide(item.name, item.instance)
+})
 app.use(router)
 app.use(pinia)
 app.use(myPlugins, { name: 'upper' })
@@ -37,10 +42,6 @@ app.use(myPlugins, { name: 'upper' })
 // app.config.globalProperties.$Bus = Mit // app.config.globalProperties.$API = API
 app.mount('#app')
 
-// 注册全局注入
-globalProvide.forEach((item) => {
-  app.provide(item.name, item.instance)
-})
 
 // 注册全局的组件
 // for (const componentItme in globalComponent) {

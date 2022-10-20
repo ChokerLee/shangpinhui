@@ -31,10 +31,13 @@
   // import Header from '@/components/Header/index.vue'
   // import Footer from '@/components/Footer/index.vue'
   import { useSearchStore } from '@/stores/search'
-  import { onMounted } from 'vue'
-  import { useRoute } from 'vue-router'
+
+  // import { bus_inject } from '@/utils/inject'
   // 异步组件，全局依赖注入才会生效
   // const Header = defineAsyncComponent(() => import('@/components/Header/index.vue'))
+
+  // const $bus = inject(bus_inject)
+  // console.log($bus)
 
   const route = useRoute()
   const searchStore = useSearchStore()

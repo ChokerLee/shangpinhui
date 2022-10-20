@@ -30,7 +30,7 @@ export const routes: Array<RouteRecordRaw> = [
   {
     path: '/search/:keyword?',
     name: 'search',
-    component: () => import('@/pages/Search/index.vue'),
+    component: () => import('@/pages/Search2/index.vue'),
     meta: { showFooter: true, activeNav: true },
   },
   {
